@@ -3,7 +3,7 @@
 #### 💻 I'm a C++ developer 
 #### 🏫 I’m currently learning at School_21  
 #### 🧙 My skills: 
-- 🐘 Language: C,C++ 
+- 🐘 **Language C,C++**: 
 - 🐧 Linux 
 - 📊 DevOps 
 - 🌿 Git 
