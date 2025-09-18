@@ -1,14 +1,14 @@
 ©©©©©©©©©©©©©©©©©©©©©©©©©
-### 👋 Hi there my name is Den 
-#### 💻 I'm a C++ developer 
-#### 🏫 I’m currently learning at School_21  
+### 👋 Hi there my name is Den.
+#### 💻 I'm a C++ developer.
+#### 🏫 I’m currently learning at School_21.  
 #### 🧙 My skills: 
-- 🐘 **Language C,C++**: 
-- 🐧 Linux 
-- 📊 DevOps 
-- 🌿 Git 
-- 🐳 Docker 
-- 🗃️ SQL 
+- 🐘 **Language C,C++**: developing libraries and working with binary code.
+- 🐧 **Linux**
+- 📊 **DevOps**
+- 🌿 **Git** 
+- 🐳 **Docker** 
+- 🗃️ **SQL** 
 
 <!--
 **DanyaKalinkov/DanyaKalinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
