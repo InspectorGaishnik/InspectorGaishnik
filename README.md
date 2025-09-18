@@ -1,6 +1,6 @@
 ## Hi there my name is Den
 #I'm a C++ developer👋
-I’m currently learning at School_21
+#I’m currently learning at School_21
 
 <!--
 **DanyaKalinkov/DanyaKalinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
