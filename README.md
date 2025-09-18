@@ -4,7 +4,11 @@
 #### I’m currently learning at School_21 🏫
 #### My skills:
 - Language: C,C++ 🐘
-- Linux 
+- Linux 🐧
+- DevOps 📊
+- Git 🌿
+- Docker 🐳
+- SQL 🗃️
 
 <!--
 **DanyaKalinkov/DanyaKalinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
