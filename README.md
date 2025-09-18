@@ -1,5 +1,5 @@
 ## Hi there my name is Den
-I'm a C++ developer👋
+#I'm a C++ developer👋
 I’m currently learning at School_21
 
 <!--
