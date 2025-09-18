@@ -4,15 +4,15 @@
 #### 🏫 I’m currently learning at School_21.  
 #### 🧙 My skills: 
 - 🐘 **Language C,C++**: developing libraries and working with binary code.
-- 
+  
 - 🐧 **Linux**
-- 
+  
 - 📊 **DevOps**
-- 
+  
 - 🌿 **Git**
-- 
+  
 - 🐳 **Docker**
-- 
+  
 - 🗃️ **SQL** 
 
 <!--
