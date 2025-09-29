@@ -6,7 +6,7 @@
   
 - 🐧 **Linux**
 
-- 🪟 vs 🍎 **Windows**
+- 🟦 **Windows**
   
 - 📊 **DevOps**
   
