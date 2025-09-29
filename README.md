@@ -5,6 +5,8 @@
 - 🐘 **Language C,C++**: developing libraries and working with binary code.
   
 - 🐧 **Linux**
+
+- 🪟 vs 🍎 **Windows**
   
 - 📊 **DevOps**
   
