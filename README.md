@@ -1,5 +1,5 @@
 # 👋 ©© Hi there, my name is Den. 👮 ©©
-### 💻 I'm a C++ developer.
+### 💻 I'm a C++ developer. I can turn complex tasks into high-quality and efficient code.
 ### 🏫 I’m currently learning at School_21.  
 ### 🧙 My skills: 
 - 🐘 **Language C,C++**: developing libraries and working with binary code.
