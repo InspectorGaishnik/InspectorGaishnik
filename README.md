@@ -1,8 +1,8 @@
 # 👋 ©© Hi there, my name is Den. 👮 ©©
-### 💻 I'm a C++ developer. I can turn complex tasks into high-quality and efficient code.
+### 💻 I'm a C++ developer. 
 ### 🏫 I’m currently learning at School_21.  
-### 🧙 My skills: 
-- 🐘 **Language C,C++**: developing libraries and working with binary code.
+### 🧙 My stack: 
+- 🐘 **Language C,C++**
   
 - 🐧 **Linux**
 
@@ -18,6 +18,10 @@
 
 # 📽️ Check my repository - Portfolio
 
+## 🧙 My skills: 
+- **developing libraries and working with binary code.**
+
+- **I can turn complex tasks into high-quality and efficient code.**
 <!--
 **DanyaKalinkov/DanyaKalinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
