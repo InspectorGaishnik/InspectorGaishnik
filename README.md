@@ -23,7 +23,7 @@
 
 - **I can turn complex tasks into high-quality and efficient code.**
 
-- **I Use Multithreading**
+- **I use Multithreading**
 <!--
 **DanyaKalinkov/DanyaKalinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
