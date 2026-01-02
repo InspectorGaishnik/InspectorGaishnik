@@ -3,6 +3,8 @@
 ### 🏫 I’m currently learning at School_21.  
 ### 🧙 My Instruments: 
 - 🐘 **Language C,C++**
+
+- 🎨 **QT**
   
 - 🐧 **Linux**
 
