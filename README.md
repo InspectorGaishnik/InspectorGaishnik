@@ -5,18 +5,18 @@
 - 🐘 **Language C,C++**
 
 - 🎨 **QT**
+
+- 🗃️ **SQL**
   
 - 🐧 **Linux**
 
 - 🟦 **Windows**
   
-- 📊 **DevOps**
-  
 - 🌿 **Git**
   
 - 🐳 **Docker**
-  
-- 🗃️ **SQL**
+
+- 📊 **DevOps**
 
 # 📽️ Check my repository - Portfolio
 
