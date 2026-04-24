@@ -16,6 +16,8 @@
   
 - 🐳 **Docker**
 
+- 🚀 **Apache Kafka**
+
 - 📊 **DevOps**
 
 # 📽️ Check my repository - Portfolio
